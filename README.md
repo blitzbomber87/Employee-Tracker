@@ -34,11 +34,13 @@ Video Walkthrough here....https://drive.google.com/file/d/1g0xRL3giSj2m5YxDwt62Q
 
 Inquirer database prompt...
 
-![database]
+![database](https://github.com/user-attachments/assets/38bce3be-34b9-44e9-a6bd-9ba8f630e0c5)
+
 ## Credits
 Eli - https://github.com/blitzbomber87
 
-I had some issues with the seeding file getting an error.
+I had some issues with the seeding file getting an error...
+
 
 
 
